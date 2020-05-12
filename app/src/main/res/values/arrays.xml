@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+
+    <string-array name="English_1">
+        <item name="question">@string/English_comprehension_1</item>
+        <item name="mQuestionImage">nill</item>
+        <item name="optionA">white man will send the people to prison</item>
+        <item name="optionB">white man can kill all the people with his gun</item>
+        <item name="optionC">people are only trying to run away from the white man</item>
+        <item name="optionD">people must accept the white man</item>
+        <item name="correctAnswer">people must accept the white man</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_2">
+        <item name="question">Unachukwu\'s speech in this passage shows that</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">is a coward</item>
+        <item name="optionB">wants his people</item>
+        <item name="optionC">loves the white man</item>
+        <item name="optionD">is wise with experience</item>
+        <item name="correctAnswer">is wise with experience</item>
+        <item name="mSubject">@string/English</item>
+
+    </string-array>
+
+    <string-array name="English_3">
+        <item name="question">@string/English_comprehension_2</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">2</item>
+        <item name="optionB">14</item>
+        <item name="optionC">3</item>
+        <item name="optionD">150</item>
+        <item name="correctAnswer">14</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_4">
+        <item name="question">Which of the following is true?</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">Butterflies and moths belong to different order</item>
+        <item name="optionB">Butterflies and moths are both Lepidoptera</item>
+        <item name="optionC">Butterflies are insects, while moths are not</item>
+        <item name="optionD">Butterflies fly faster than other Lepidoptera</item>
+        <item name="correctAnswer">Butterflies and moths are both Lepidoptera</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_5">
+        <item name="question"> You would expect to find the kind of information in this passage in</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">a scientific environment</item>
+        <item name="optionB">a social studies text</item>
+        <item name="optionC"> neither of these</item>
+        <item name="optionD">both of these</item>
+        <item name="correctAnswer">a scientific environment</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_6">
+        <item name="question">@string/English_comprehension_3</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">distasteful</item>
+        <item name="optionB">complimentary</item>
+        <item name="optionC">insulting</item>
+        <item name="optionD">delightful</item>
+        <item name="correctAnswer">insulting</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_7">
+        <item name="question">The author implies that the most important aim of the right to free speech is</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">the ability to disagree with Congress</item>
+        <item name="optionB">the ability to say whatever you want to say whenever you want</item>
+        <item name="optionC">the right to express our opinions freely</item>
+        <item name="optionD">The right to listen to violent music</item>
+        <item name="correctAnswer">the right to express our opinions freely</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_8">
+        <item name="question">The author attempts to persuade the reader with</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">statistics</item>
+        <item name="optionB">impassioned generalizations</item>
+        <item name="optionC">historical quotations</item>
+        <item name="optionD">anecdotes and examples</item>
+        <item name="correctAnswer">anecdotes and examples</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+
+    <string-array name="English_9">
+        <item name="question">This passage is most likely from</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">speech given to a radio station</item>
+        <item name="optionB">textbook on the constitution</item>
+        <item name="optionC">magazine article on American music</item>
+        <item name="optionD">editorial in a school newspaper</item>
+        <item name="correctAnswer">editorial in a school newspaper</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_10">
+        <item name="question">The passage seems to imply that</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">Our mind is dull in receiving data</item>
+        <item name="optionB">our subconscious is sometimes the most active</item>
+        <item name="optionC">our songs are harmful</item>
+        <item name="optionD">our rights are very exclusive</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_11">
+        <item name="question">@string/English_comprehension_4</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">have equal luck</item>
+        <item name="optionB">apply similar skill to figures</item>
+        <item name="optionC">apply similar skill to similar figures</item>
+        <item name="optionD">have equal skill</item>
+        <item name="correctAnswer">apply similar skill to similar figures</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_12">
+        <item name="question">It is implied in the passage that in Ludo threes and fours are</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA"> very high throws</item>
+        <item name="optionB">medium throws</item>
+        <item name="optionC">low throws</item>
+        <item name="optionD">very low throws</item>
+        <item name="correctAnswer">medium throws</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_13">
+        <item name="question">According to the passage, a player with consistently high throws will</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">almost certainly win a game</item>
+        <item name="optionB">certainly win a game</item>
+        <item name="optionC">almost certainly not win a game</item>
+        <item name="optionD">deliberately not win a game</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_14">
+        <item name="question">@string/English_comprehension_5</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">allow insects and pests to destroy their crops</item>
+        <item name="optionB">do not have enough money to invest in harvesters</item>
+        <item name="optionC">do not have good storage facilities</item>
+        <item name="optionD">harvest too much at a time</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_15">
+        <item name="question">@string/English_comprehension_6</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">Fashion craze</item>
+        <item name="optionB">Fashion craze among the youth</item>
+        <item name="optionC">University students and induction ceremonies</item>
+        <item name="optionD">Parents and the money for fashion craze</item>
+        <item name="correctAnswer">Fashion craze</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_16">
+        <item name="question">@string/English_comprehension_7</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">they are an agency for transmitting cultural heritage</item>
+        <item name="optionB">natural or proper environments are removed and put into museums</item>
+        <item name="optionC">objects are removed from museums to natural or proper environments</item>
+        <item name="optionD">objects are removed from their natural or proper environments and put into museums</item>
+        <item name="correctAnswer">objects are removed from their natural or proper environments and put into museums</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_17">
+        <item name="question">According to the passage, which of the following is NOT part of the main functions of museums?</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">Preservation</item>
+        <item name="optionB">Generation</item>
+        <item name="optionC">Presentation</item>
+        <item name="optionD">Assemblage</item>
+        <item name="correctAnswer">Generation</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_18">
+        <item name="question">@string/English_comprehension_8</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">the British Medical Journal</item>
+        <item name="optionB">personal diaries</item>
+        <item name="optionC">morbidity rates</item>
+        <item name="optionD">temperature recordings</item>
+        <item name="correctAnswer">personal diaries</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_19">
+        <item name="question">@string/English_comprehension_9</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">trying to prove its superiority</item>
+        <item name="optionB">determined to prove that it is the most acceptable</item>
+        <item name="optionC">resolved not to be dislodged</item>
+        <item name="optionD">attempting to how that it is the brightest</item>
+        <item name="correctAnswer">trying to prove its superiority</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_20">
+        <item name="question">@string/English_comprehension_10</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">prankish</item>
+        <item name="optionB">illegal</item>
+        <item name="optionC">wicked</item>
+        <item name="optionD">vicious</item>
+        <item name="correctAnswer">prankish</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <!-- etc.
+
+
+ <string name="English_comprehension_2"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p> </p>
+    <p> </p>
+
+        <h4>3. How many insect orders are there?</h4>
+        <p> </p>
+        <p>
+
+         <p>
+       <i>()</i>
+
+      <h4>1. 'There is no escape from the white man' in the passage means that the</h4>
+    ]]></string>
+
+
+
+    ![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p> </p>
+    ]]
+
+
+    -->
+
+
+
+    <string name="English_21Q"><![CDATA[<h1> ENGLISH OBJECTIVE</h1>
+    <p><font color="#4d94ff">In questions below, choose the word(s) or phrase which best fills the gap(s)</font></p>
+    <p>Jubril found that thieves had entered his house in his absence. He went to the police to report the ......</p>
+    ]]></string>
+    <string-array name="English_21">
+        <item name="question">@string/English_21Q</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">break out</item>
+        <item name="optionB">break up</item>
+        <item name="optionC">break in</item>
+        <item name="optionD">break into</item>
+        <item name="correctAnswer">break in</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+
+
+
+    <string name="English_22Q"><![CDATA[
+    <p><font color="#4d94ff">In the questions below, choose the word(s) or phrase which best fills the gap(s)</font></p>
+    <p> After the accused was found guilty by the court, his counsel........ before sentence was passed</p>
+    ]]></string>
+    <string-array name="English_22">
+        <item name="question">@string/English_22Q</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">begged for mercy</item>
+        <item name="optionB">made a plea for mitigation</item>
+        <item name="optionC">made an ovation</item>
+        <item name="optionD">made a plea for litigation</item>
+        <item name="correctAnswer">made a plea for mitigation</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_23">
+        <item name="question">vvvvvvvvv</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">item</item>
+        <item name="optionB">item</item>
+        <item name="optionC">item</item>
+        <item name="optionD">item</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+    <string-array name="English_24">
+        <item name="question">vvvvvvvvv</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">item</item>
+        <item name="optionB">item</item>
+        <item name="optionC">item</item>
+        <item name="optionD">item</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_25">
+        <item name="question">vvvvvvvvv</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">item</item>
+        <item name="optionB">item</item>
+        <item name="optionC">item</item>
+        <item name="optionD">item</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+    <string-array name="English_26">
+        <item name="question">vvvvvvvvv</item>
+        <item name="mQuestionImage">@string/nill</item>
+        <item name="optionA">item</item>
+        <item name="optionB">item</item>
+        <item name="optionC">item</item>
+        <item name="optionD">item</item>
+        <item name="correctAnswer">item</item>
+        <item name="mSubject">@string/English</item>
+    </string-array>
+
+
+
+
+    <!-- etc. -->
+
+    <!-- etc. -->
+
+    <!-- array. array. array. array. array. array. array. array. array. array. array. array. array. array. array. array. array. array. -->
+
+
+    <array name="arrayEnglish">
+        <item>@array/English_1</item>
+        <item>@array/English_2</item>
+        <item>@array/English_3</item>
+        <item>@array/English_4</item>
+        <item>@array/English_5</item>
+        <item>@array/English_6</item>
+        <item>@array/English_7</item>
+        <item>@array/English_8</item>
+        <item>@array/English_9</item>
+        <item>@array/English_10</item>
+        <item>@array/English_11</item>
+        <item>@array/English_12</item>
+        <item>@array/English_13</item>
+        <item>@array/English_14</item>
+        <item>@array/English_15</item>
+        <item>@array/English_16</item>
+        <item>@array/English_17</item>
+        <item>@array/English_18</item>
+        <item>@array/English_19</item>
+        <item>@array/English_20</item>
+        <item>@array/English_21</item>
+        <item>@array/English_21</item>
+        <item>@array/English_21</item>
+        <item>@array/English_21</item>
+        <item>@array/English_21</item>
+        -->
+
+        <!-- etc. -->
+    </array>
+
+
+
+
+
+
+</resources>

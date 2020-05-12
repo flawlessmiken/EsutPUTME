@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/rcView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/q_numbers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:layout_marginLeft="5dp"
+                android:padding="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/questionEntry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:padding="10dp"
+                android:textColor="@android:color/black"
+                android:textSize="15sp" />
+
+            <RadioGroup
+                android:id="@+id/options"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_30dp"
+                android:padding="@dimen/_10dp">
+
+                <RadioButton
+                    android:id="@+id/optionA"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70dp"
+                    android:background="@drawable/radiobuttonselector"                    android:padding="10dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="15sp" />
+
+                <RadioButton
+                    android:id="@+id/optionB"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70dp"
+                    android:layout_marginTop="@dimen/_10dp"
+                    android:background="@drawable/radiobuttonselector"
+                    android:padding="@dimen/_10dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="@dimen/_15sp" />
+
+                <RadioButton
+                    android:id="@+id/optionC"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70dp"
+                    android:layout_marginTop="@dimen/_10dp"
+                    android:background="@drawable/radiobuttonselector"                    android:padding="@dimen/_10dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="@dimen/_15sp" />
+
+                <RadioButton
+                    android:id="@+id/optionD"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_70dp"
+                    android:layout_marginTop="@dimen/_10dp"
+                    android:background="@drawable/radiobuttonselector"                    android:padding="@dimen/_10dp"
+                    android:textColor="@color/colorPrimaryDark"
+                    android:textSize="@dimen/_15sp" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcView"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="4dp"
+        android:foregroundGravity="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_prev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_arrow_back"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/rcView"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_forward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:src="@drawable/ic_arrow_forward"
+        app:layout_constraintBottom_toTopOf="@+id/rcView"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/fab_submit"
+        style="@style/Widget.MaterialComponents.Button.UnelevatedButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:elevation="4dp"
+        android:text="Submit"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+        android:visibility="gone"
+        app:cornerRadius="56dp"
+        app:layout_constraintBottom_toTopOf="@+id/rcView"
+        app:layout_constraintEnd_toEndOf="@+id/fab_forward"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

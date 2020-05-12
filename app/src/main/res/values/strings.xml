@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">EsutPUTME</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tag_fragment_home">Home</string>
+    <string name="tag_fragment_middle">Middle</string>
+    <string name="tag_fragment_choose">Choose</string>
+
+    <string name="tag_departments_list">Departments</string>
+
+
+    <string name="tag_fragment_first">FirstFragment</string>
+    <string name="tag_fragment_second">SecondFragment</string>
+    <string name="tag_fragment_third">ThirdFragment</string>
+    <string name="tag_fragment_fourth">FourthFragment</string>
+
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="agreement">Agreement</string>
+
+    <string name="nill">Nill</string>
+
+
+    <!-- etc. -->
+
+    <string name="English_comprehension_1"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p>\'You all know how friendly we are with Okperi. <em>Do you think that any Umuaro</em> man who goes to prison.</p>
+    <p>\'You all know how friendly we are with Okperi. Do you think that any Umuaro man who goes to prison.</p>
+        there will come back alive? But that apart, do you forget that this is the moon of planting? Do you want to
+        grow this year\'s crops in the prison house in a land where your fathers owe a cow? I speak as your elder
+        brother. I have travelled in Olu and I have travelled in Igbo, and I can tell you that there is no escape from
+        the white man. He has come.
+
+        <p>When suffering knocks at your door and you say there is no seat left for him, he tells you not to worry
+        because he has brought his own stool. The white man is like that. Before any of you here was old enough
+        to tie a cloth between the legs I saw with my own eyes what the white did to Abame. Then I knew there
+        was no escape.</p>
+        <p>As daylight chases away darkness so will the white man drive away all our customs. I know that as I say it
+        now it passes by yours ears, but it will happen. The white man has power which comes from the true God
+        and it burns like fire. This is the God about Whom we every eighth day… Unachukwu \'s opponents were
+        now shouting that this was a meeting of an age group, that they had not assembled to join with him in
+        chewing the seed of foolishness which they called their new religion.</p>
+
+        <p>'We are talking about the white man's road’, said a voice above the others.
+         <p>'Yes, we are talking about the white man's road, the roof and walls of a house falling, the ceiling is not left
+        standing. The white man, the new religion, the soldiers, the new road - they are all part of the same thing.
+        The white man has a gun, a machete,  <b>a bow and carries fire in his mouth.</b> He does not fight with one
+        weapon alone.
+       <i>(Taken from Chinua Achebe's Arrow of God)</i>
+
+      <h4>1. 'There is no escape from the white man' in the passage means that the</h4>
+    ]]></string>
+
+    <string name="English_comprehension_2"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p>\Insects can be classified into fourteen separate groupings, or orders. Butterflies and moths belong to the
+    Lepidoptera order. Lepidoptera means “scale wings”, from the Greek words “lepido” which means “scale” and “ptera” which
+    means “wings”.</p>
+    <p>Lepidoptera is one of the largest and most diverse insects\’ orders. The only order with more different species is
+    coleopteran, that of beetles. So far, scientists have observed approximately 150,000 different species of
+    butterflies and moths. Each species is distinguished by the unique arrangement, colour, and pattern of
+    its scales. Worldwide, there are about 28,000 butterfly species. The rest of the species comprising
+    Lepidoptera are species of moths. Though butterflies and moths both have scaled wings, there are some
+    important differences between them. Butterflies are distinguished by their brightly coloured wings.
+    Moths\’ wings are usually less bright. Butterflies are usually active during the day, while mothers are active at night. A butterfly\’s
+    antennae are swollen at the tip, while a moth\’s antennae are feathery.</p>
+
+        <h4>3. How many insect orders are there?</h4>
+    ]]></string>
+
+    <string name="English_comprehension_3"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p>In America, the first amendment to the Bill of \‘ights states, “Congress shall make no law.... abridging the freedom of speech.....” This
+    amendment was passed to protect our right to express our opinions without fear. Yet, we must stop using the first
+    amendment as a justification to say whatever we want, whenever we want. No speech is “free” when it has
+    detrimental effect on the well-being of the others, the protection of our privacy, the safety of our borders, or
+    the quality of our thinking.</p>
+    <p>While censorship is not the way of this land, we must take into account the effect of musical lyrics that
+    influence young listeners. How often do we find ourselves singing a tune or repeating a phrase from a
+    song instinctively, without stopping to ponder the meaning of the words? When these words are
+    <b><i>demeaning</i></b> to any group of people or when they incite violence, we are unknowingly repeating phrases of
+    hate. How long does it take until those phrases become worn into our patterns of thought and we find
+    ourselves believing the words we mindlessly hummed?</p>
+        <h4>6. As used in the passage, the word demeaning most nearly means</h4>
+    ]]></string>
+
+    <string name="English_comprehension_4"><![CDATA[
+    <h1>Read each passage carefully and answer the questions that follow</h1>
+    <p> Those who are familiar with it will tell you that Ludo, like human life itself, is a game both of chance and
+    skill. You need skill in deciding how to make the most advantageous use of the figures, which turn up on
+    the die when you cast it. Since each player has at least four alternative ways of using his figures, two
+    players with equal luck may fare differently, depending on how cleverly each one uses his figures. The
+    element of luck, again as in human life, plays a dominant role however. For no matter how skilful a player
+    may be in using the figure he gets on the die, he has a slim chance of winning if he continually throws low
+    figures. While a combination of ones and twos may be useful in checking the advance of one's opponents,
+    it will not take one home fast enough to win. On the other hand, consistent throws of sixes and fives, with
+    even the very minimum of skill will help a player to home all his four counters before any of the three
+    other players, unless, of course, he has no idea of the game at all.</p>
+    <p> </p>
+
+        <h4>11. It is implied in the passage that two players may fare equally if they</h4>
+
+    ]]></string>
+
+    <string name="English_comprehension_5"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p>14. Read each passage carefully and answer the questions that follow.
+    Farming is the most important aspect of agriculture that has attracted attention within the last few years.
+    Agriculture has several other aspects like fishery, livestock and poultry. All these are also important in that
+    they have to do with the production of food items which human beings consume for survival. In many
+    parts of the world today, farming has been regarded as the mainstay of the economy. Crops such as cocoa,
+    rubber and cotton have been produced in such commercial quantity that they are sold to other countries.
+    Some countries have better comparative advantage in producing certain farm crops than other countries.</p>
+
+    In these other countries, there is the need to spend a lot of money on agriculture, particularly farming.
+    <p>Most farmers use outmoded tools. A lot of them have no place to store their crops, most of which are
+    always destroyed by insects and pests before harvest time. All these have adverse effects on their
+    productivity. The government can do a lot to help farmers. Farmers' co-operative societies can be
+    encouraged and loans can be made available to farmers through government institutions like banks and
+    finance corporations. Farmers can be taught how to build good storage structures for their produce. All
+    these and a lot more can help to improve the conditions of farming in these countries.
+    A lot of crops harvested are wasted because farmers
+    </p>
+
+    <h4>14. A lot of crops harvested are wasted because farmers</h4>
+    ]]></string>
+
+    <string name="English_comprehension_6"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p>15. Read each passage carefully and answer the questions that follow.
+    It is customary nowadays among fashionable ladies and gentlemen to acquire strange and sometimes
+    quaint clothes which are scarcely ever used: Sometimes it may be an approaching festival; sometimes a
+    two hours\' ceremony and sometimes to honour a dead colleague - something triggers off the modern craze
+    to sew new materials whose use does not outlast the moment of craze. And so, people who just occupy
+    small apartments in their parents\' homes, or have rented one room in a densely-peopled house find that
+    more than two-thirds of their rooms are filled with bongo trousers which they cannot wear, worn out jeans
+    which stink, or specially made clothes for occasions that are not recurrent.</p>
+    <p>Although plagued by the problem of school fees for their children, parents have had to swallow their own
+    phlegm and humour of their children who need special clothes for important events. Newly employed
+    youths soon find that their comrades are getting married, and new and special attire must be used to grace
+    the occasion. University students see matriculation ceremonies or induction ceremonies into club
+    membership as special reasons to make new attire which - you may be sure - they would not wear on
+    another occasion that parallels the one for which these clothes were made.</p>
+    <p>Medical doctors may soon find another cause for the incidence of high blood pressure among the youth.
+    The desire to acquire new clothes is one strong possible cause, but a more subtle one which haunts like a
+    ghost is the problem of choice of what to wear. The youths have so stuffed their apartments, wardrobes,
+    drawers and trunks with so many clothes that the greatest problem they face is the choice of what to
+    wear.</p>
+
+     <h4>15. A suitable title for this passage is</h4>
+
+    ]]></string>
+
+
+    <string name="English_comprehension_7"><![CDATA[
+    <h1> Read each passage carefully and answer the questions that follow.</h1>
+    <p>It may be argued that museums as an institution and an agency for transmitting cultural heritage are an
+    artificial creation, so far as objects are removed from their natural or proper environments and put into
+    museums which are different environment altogether. However, it seems that museums themselves have
+    come to be accepted and recognized as the best equipped institutions devised by man for the assemblage
+    of cultural objects and their presentation and preservation for the present and future generations.</p>
+    <p>The artificial character of museums is however being gradually transformed into a cultural reality. Thus,
+    just as one goes to the theatre for plays and other performing arts; the mosque, the church or the shrine
+    for worship; the library for the printed word; today, it is to the museum one goes to see evidence of man’s material outfit. For, no
+    other institution or place so readily comes to mind as museums do when evidence of material culture is
+    sought. Herein lies the importance of museums as cultural institutions and an agency for transmitting
+    culture.
+</p>
+
+        <h4>16. Museums are an artificial creation because</h4>
+
+    ]]></string>
+
+
+
+    <string name="English_comprehension_8"><![CDATA[
+    <h1>Read the passage carefully and answer the questions that follow it.</h1>
+    <p>You would think that the common cold should be easy enough to study, but it is not so easy as it looks.
+    Colds often seem to spread from one person to another, so it is often assumed that the cold must be
+    infectious, but there are some puzzling observations which do not fit in with this theory. An investigator in
+    Holland examined some eight thousand volunteers from different areas, and came to the conclusion that
+    in each group the colds appeared at the same time. Transfer of infection from case to case could not
+    account for that. Yet at the Common Cold Research Unit in Salisbury the infection theory has been tested
+    out; two series of about two hundred people each were inoculated, one with salt water and the other with
+    secretions from known cold victims. Only one of the salt-water group got a cold, compared with seventythree
+    in the other group.</p>
+    <p>In the British Medical Journal the other day, there was a report of a meeting \'The Common Cold-Fact and
+    Fancy\', at which one of the speakers reported a study of cold made in Cirencester over the last five years.
+    Three hundred and fifty volunteers had kept diary records of their colds and on an average each had seven
+    every year, with an annual morbidity of seven days. So nearly one-fifth of our lives is spent in more or less
+    misery, coughing and sneezing. Some widely held beliefs about the common cold have turned out not to
+    be true. It seems that old people are just as liable to colds as the young. Sailors in isolated weather ship
+    have just as many colds while on board and not in contact with colds as the young. Sailors in isolated
+    weather ships have just as many colds while on board and not in contact with the outside world as when
+    on shore. It is truism that common illnesses pose more problems than the rare. The rare disease is by
+    comparison much easier to handle. There are not so many cases and all of them have been intensively
+    studied. Someone has read up all the literature about the disease and published a digest of it. There will be
+    more facts and fewer fancies.</p>
+
+
+        <h4>The Cirencester volunteers kept a record of their colds through</h4>
+
+    ]]></string>
+
+
+    <string name="English_comprehension_9"><![CDATA[
+    <h1>Read the passage carefully and answer the questions that follow it.</h1>
+    <p>Whenever I have had to ask myself the question why I have not left this country for good, many answers
+    rush to my mind, each striving to be recognized as being the most cogent. I am reminded of the popular
+    slogan that \'this country belongs to us all\', for which reason every Nigerian must join hands in trying to
+    salvage it. I try to dismiss the argument by reasoning that it is foolhardy attempting to lend a helping hand
+    where one\'s services are apparently not required. Then I am reminded that if I left the country in a hurry
+    just because of our political instability and economic hardships, my commitments to my family and
+    extended family at home would suffer. I reply by saying that as soon as I got settled abroad; I would
+    arrange for my family to join me. Other financial problems at home would be taken care of by my regular
+    remittances. Would I then never think of going back Home in future? Not until the situation in the country
+    improved considerably, I would answer. And who did I expect to carry on with the task of national
+    rehabilitation when the likes of me are all out of the country? Those who messed up the country in the first
+    place, I would argue. And so on. This dialogue of self has been going on for the last ten years or so;
+    meanwhile, I am yet to leave the country.</p>
+    <p>When I wonder how many people share my kind of mental experience, I realize that we must be very few.
+    For not many have the slightest opportunity of absconding from the country; they do not have the place to
+    run to nor do they have the means of escape. Even among the elite who consider this possibility, the
+    uncertainty of a future outside their fatherland intimidates. And so we all end up staying and mumbling.</p>
+
+        <h4>19. The expression 'each striving to be recognized as being the most cogent' means each</h4>
+
+    ]]></string>
+
+
+    <string name="English_comprehension_10"><![CDATA[
+    <h1>Read the following and answer question</h1>
+    <p>It was part of her <b>nefarious</b> plot! Of that I had no doubt. She would slowly deprive me of my delicious
+    slumber until finally, exhausted, I gave in to her wretched demands. She would claw her ways into my
+    dreams, she could growl and complain, but no, I would not give in. I pulled the covers close over my head
+    and rolled over. I was the stronger of we two. I was the determined one. I was the human, and she the
+    beast. She must have understood my determination, for mercifully, the whining stopped. My breathing
+    grew deeper and I returned to my wonderful sleep. Until moments later a crash awakened me. I bolted
+    out of bed and there she was, in the kitchen guiltily lappily kitty treats off the floor. The mischievous beast
+    had jumped onto the countertop and knocked the bag of food onto the floor. “Bad kitty!” I scolded,
+    pushing her away from the mess of chow. But the sweet face, that little sandpaper tongue licking her
+    chops somehow softened me.</p>
+
+
+        <h4>20. The word “nefarious” as used in the first sentence in the passage means</h4>
+
+    ]]></string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="English">English</string>
+    <string name="Mathematics">Mathematics</string>
+    <string name="Current_Affairs">Current Affairs</string>
+    <string name="Biology">Biology</string>
+    <string name="Chemistry">Chemistry</string>
+    <string name="Commerce">Commerce</string>
+    <string name="Economics">Economics</string>
+    <string name="Religious_Studies">Religious Studies</string>
+    <string name="Geology">Geology</string>
+    <string name="Government">Government</string>
+    <string name="History">History</string>
+    <string name="Literature">Literature</string>
+    <string name="Physics">Physics</string>
+
+
+    <!-- etc.
+
+
+ <string name="English_comprehension_2"><![CDATA[
+    <h1>Read the following passage and answer question</h1>
+    <p> </p>
+    <p> </p>
+
+        <h4>3. How many insect orders are there?</h4>
+        <p> </p>
+        <p>
+
+         <p>
+       <i>()</i>
+
+      <h4>1. 'There is no escape from the white man' in the passage means that the</h4>
+    ]]></string>
+
+
+    -->
+
+
+</resources>
+
